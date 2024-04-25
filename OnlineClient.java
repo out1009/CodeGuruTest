@@ -12,8 +12,6 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
-//Test
-
 /**
  * 로컬로 데이터를 수신하여 목적지로 송신하기 위한 모듈
  * 
